@@ -149,8 +149,6 @@ I have hands-on experience working with Python, SQL, Excel, Power BI, and Tablea
 
 ### Tools Used: Python, Machine Learning, Scikit-learn
 
-Project Link: [https://github.com/himanshushakya393/health-prediction-model](https://github.com/himanshushakya393/health-prediction-model)
-
 * Built a machine learning-based disease prediction system using symptom analysis with Kaggle datasets.
 * Performed data preprocessing, feature engineering, and model optimization to improve prediction accuracy.
 * Developed a medical chatbot for symptom-based interaction and disease suggestions.
